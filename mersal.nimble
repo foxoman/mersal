@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Sultan Al Isaiee"
-description   = "Send Sms and OTP Api for nim, using textbelt.com"
+description   = "Send SMS and Otp in nim, a wrapper for TextBelt's public API"
 license       = "MIT"
 srcDir        = "src"
 #backend       = "c"
