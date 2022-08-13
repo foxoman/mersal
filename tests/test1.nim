@@ -9,9 +9,9 @@ import unittest
 
 import mersal
 
-const fKey = "e4db6c429db10dc900f88af83e8a9dd08f5a3d46Qq3zJ2xF8DeT3FToynV1h3ZXZ"
-const userId = "foxoman"
-const userMobile = "+96896101015"
+const fKey = "textbelt"
+const userId = "f-23456"
+const userMobile = "+4474564353334"
 var
   smsid: string
   smsotp: string
